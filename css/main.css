@@ -546,7 +546,6 @@ input::placeholder {
   .boglanish {
     height: 200px;
     background-color: #EABF9F;
-    padding-top: 0px;
     padding-top: 30px;
   }
   .boglanish h2 {
@@ -582,8 +581,7 @@ input::placeholder {
     border-radius: 2px;
     border: 3px solid #01384D;
     margin-left: 30px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
   }
   .footer ul {
     margin-right: 0;
