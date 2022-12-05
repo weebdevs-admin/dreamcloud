@@ -39,8 +39,8 @@
 
     .navbar__logo {
         margin-left: 170px;
-        max-width: 160px;
-        height: 37.25px;
+        width: 50%;
+        height: 57.25px;
     }
 
     .navbar__phone {
@@ -363,6 +363,7 @@
     height: 200px;
     background-color: #EABF9F;
     padding-top: 60px;
+
     h2 {
 
         font-family: 'Raleway';
@@ -383,48 +384,57 @@
         font-weight: 400;
         font-size: 16px;
         line-height: 23px;
-       margin-left: 200px;
+        margin-left: 200px;
         color: #01384D;
         display: inline;
     }
-    input{
+
+    input {
         width: 370px;
-height: 50px;
-border-radius: 2px;
-border: 3px solid #01384D;
-margin-left: 120px;
+        height: 50px;
+        border-radius: 2px;
+        border: 3px solid #01384D;
+        margin-left: 120px;
 
     }
-    button{
+
+    button {
         height: 50px;
-border-radius: 2px;
-border: 3px solid #01384D;
-width: 90px;
+        border-radius: 2px;
+        border: 3px solid #01384D;
+        width: 90px;
     }
 }
-.footer{
+
+.footer {
     padding: 20px;
     background-color: #01384D;
-    ul{
+
+    ul {
         display: flex;
         margin-right: 550px;
         justify-content: space-around;
-        li{
+
+        li {
             list-style-type: none;
-            a{
+
+            a {
                 text-decoration: none;
                 color: white;
             }
         }
-        li :hover{
+
+        li :hover {
             color: #111111;
         }
-        #weeb{
-            a{
+
+        #weeb {
+            a {
                 color: #FF6B6B;
 
             }
-            span{
+
+            span {
                 color: black;
             }
         }
