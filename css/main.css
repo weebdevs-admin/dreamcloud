@@ -226,11 +226,8 @@ input::placeholder {
   border-radius: 5px;
 }
 .mahsulotlar .container .matras img {
-  position: absolute;
-  left: 3.12%;
-  right: 60.62%;
-  top: 120px;
-  bottom: 26.54%;
+  margin-top: 150px;
+  margin-left: 30px;
   width: 90%;
 }
 .mahsulotlar .matras__info {
